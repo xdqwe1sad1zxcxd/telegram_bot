@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+authors/
+галерея/
+description_heroes/
+cfg.py
+bad_words.json
